@@ -1,0 +1,7 @@
+{
+  "galaxy.meteor.com": {
+    "env": {
+      "MONGO_URL": "mongodb://medhacks:betterThanHophacks1@ds033076.mlab.com:33076/medhacks-helpq"
+    }
+  }
+}
